@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1489608138 source:c:\users\owner\desktop\employee\employee.cpp
+	"Employee.h"
+	<sstream>
+
+1489606405 c:\users\owner\desktop\employee\employee.h
+	<string>
+
+1489608043 source:c:\users\owner\desktop\employee\productionworker.cpp
+	"ProductionWorker.h"
+	<iostream>
+
+1489606406 c:\users\owner\desktop\employee\productionworker.h
+	"Employee.h"
+
